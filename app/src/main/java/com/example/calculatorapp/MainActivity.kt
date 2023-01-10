@@ -50,7 +50,7 @@ fun MyApp(content: @Composable () -> Unit) {
 
  @Preview
 @Composable
-fun TopHeader(totalPerPerson: Double = 100.0) {
+fun TopHeader(totalPerPerson: Double = 80.0) {
     Surface(
         modifier = Modifier
             .fillMaxWidth()
