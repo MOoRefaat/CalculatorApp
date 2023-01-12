@@ -45,7 +45,7 @@ fun InputField(
         enabled = enabled,
         keyboardOptions = KeyboardOptions(keyboardType = keyboardType, imeAction = imeAction),
         keyboardActions = onAction,
-        modifier = modifier.padding(10.dp)
+        modifier = modifier.padding(5.dp)
 
     )
 
